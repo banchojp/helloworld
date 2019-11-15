@@ -1,6 +1,6 @@
 ## /etc/hosts
 
-127.0.0.1       helloworld.localhost
+        127.0.0.1       helloworld.localhost
 
 ## /usr/local/etc/httpd/extra/httpd-vhosts.conf
 
